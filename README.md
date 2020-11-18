@@ -6,7 +6,7 @@ Review the tests in `/src/__tests__/newFunction.test.ts`.
 
 - You'll notice the line:
   ```typescript
-  import { myFunction } from "../newFunction.ts";
+  import { myFunction } from "../newFunction";
   ```
 - The tests run against the function that `/src/newFunction.ts` exports, which
   is blank for now.
