@@ -35,6 +35,8 @@ Canvas to submit this assignment.
 
 </details>
 
+<br />
+
 # Lab Exercise 2
 
 <details> <summary> View exercise 2... </summary>
@@ -75,6 +77,10 @@ this assignment.
 
 </details>
 
+<br />
+
+---
+
 ## Solution
 
 You can review this repository's `solution` branch to view a working function
@@ -82,14 +88,15 @@ for lab exercise 1, and the tests for lab exercise 2 as well.
 
 ## Review
 
-That's the core of TDD! Only if the requirements are wrong do the tests need
-updating.
+Writing tests against requirements, or code against existing tests, that's the
+core of TDD, and now you have experience with both.
 
-- (These tests are written accurately, so you can trust them)
+While you won't often write TDD unit tests (UI automation is more common for
+QA), these exercises will help you to understand your developers' code, and you
+can always check into what they test to inform your own tests.
 
-The tests aren't perfect, especially when it comes to user experience, but
-that's nothing new; you should always have a manual tester checking something
-like that. However, for a function like this, it's perfect! Good work.
+Expand each exercise above for specific requirements, and don't forget to submit
+your assignments. Good work!
 
 ## Contributions
 
