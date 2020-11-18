@@ -35,6 +35,8 @@ Canvas to submit this assignment.
 
 </details>
 
+<br />
+
 # Lab Exercise 2
 
 <details> <summary> View exercise 2... </summary>
@@ -74,6 +76,10 @@ Copy and paste the content of your `dateFormat.test.ts` into Canvas to submit
 this assignment.
 
 </details>
+
+<br />
+
+---
 
 ## Solution
 
